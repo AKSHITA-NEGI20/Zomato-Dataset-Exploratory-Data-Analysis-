@@ -1,5 +1,4 @@
-![images](https://github.com/user-attachments/assets/1ca0f593-4d4f-4f03-a107-218dc307393a)![download](https://github.com/user-attachments/assets/1960ecbf-ddc2-4d3e-a141-3d8e388dcdb7)
-![download (4)](https://github.com/user-attachments/assets/e40ac732-d9df-42a5-b423-5dba043442c2)
+![download (4)](https://github.com/user-attachments/assets/f8bfec45-b9a3-40bf-a7cf-36e81cfd997d)
 
 # Zomato-Dataset-Exploratory-Data-Analysis
 
